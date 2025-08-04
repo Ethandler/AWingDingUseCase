@@ -1,0 +1,3 @@
+Fernet
+# This file lists the dependencies required for the project.
+# Ensure to install them using pip install -r requirements.txt
